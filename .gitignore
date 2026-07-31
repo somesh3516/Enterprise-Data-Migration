@@ -1,0 +1,76 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# JetBrains IDEs
+# ==========================
+.idea/
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Python Build Artifacts
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Power BI Temporary Files
+# ==========================
+*.pbix.autosave
+*.tmp
+
+# ==========================
+# MySQL Workbench Backup Files
+# ==========================
+*.mwb.bak
+
+# ==========================
+# SQLite Databases (if used)
+# ==========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==========================
+# Local Credentials
+# ==========================
+credentials.json
+config.local.py
