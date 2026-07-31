@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "message": "Customer already exists",
+  "legacy_customer_id": "CUST-000001"
+}
