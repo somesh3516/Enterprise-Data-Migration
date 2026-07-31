@@ -163,7 +163,7 @@ Enterprise-Data-Migration/
 
 ## Migration Execution Log
 
-![Migration Execution Log](screenshots/migration_execution_log.png)
+![Migration Execution Log](screenshots/migration_log_table.png)
 
 ---
 
